@@ -1,13 +1,10 @@
-## Welcome to GitHub Pages
+## 欢迎！
 
-You can use the [editor on GitHub](https://github.com/xiaiisme/wel-come.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这是一个免费的课件，软件下载平台。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 课件
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+数学八年级上册（BS）课件
 ```markdown
 Syntax highlighted code block
 
